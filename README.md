@@ -1,4 +1,4 @@
-# LeetCoDoc: Where Frogs Leap into Code Mastery!
+# LeetCoDoc: Where Frogs Leap into Code Mastery!🐸🐸🐸
 Once upon a lily pad, in a serene coding pond, lived a wise and agile frog named CoDoc. This extraordinary frog solves mind-boggling LeetCode challenges with finesse. LeetCoDoc is now here to share its wisdom, guiding you through the complex journey of conquering LeetCode.
 
 ## About LeetCoDoc
@@ -17,3 +17,5 @@ Simply browse through the documentation and explore the different sections. Each
 Join us on this exciting adventure where frogs and code intertwine, illuminating the path to coding greatness. LeetCoDoc is your trusted companion in the quest for LeetCode mastery. Hop on and let's conquer LeetCode challenges together!
 
 Happy coding!
+
+special thanks to LeetHub V2  
